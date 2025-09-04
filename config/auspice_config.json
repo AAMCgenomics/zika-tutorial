@@ -1,7 +1,7 @@
 {
-  "title": "Tutorial Nextstrain build for Zika virus",
+  "title": "HIV repository test",
   "maintainers": [
-    {"name": "Trevor Bedford", "url": "http://bedford.io/team/trevor-bedford/"}
+    {"name": "Alexander Martinez", "url": "http://bedford.io/team/trevor-bedford/"}
   ],
   "build_url": "https://github.com/nextstrain/zika-tutorial",
   "colorings": [
