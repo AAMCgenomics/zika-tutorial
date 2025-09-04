@@ -1,9 +1,9 @@
 {
-  "title": "Tutorial Nextstrain build for Zika virus",
+  "title": "Test nextstrain git for hiv filogeny at Gorgas Memmorial Institute",
   "maintainers": [
-    {"name": "Trevor Bedford", "url": "http://bedford.io/team/trevor-bedford/"}
+    {"name": "Alexander A Martinez C, "url": "http://bedford.io/team/trevor-bedford/"}
   ],
-  "build_url": "https://github.com/nextstrain/zika-tutorial",
+  "build_url": "https://github.com/nextstrain/prueba",
   "colorings": [
     {
       "key": "gt",
