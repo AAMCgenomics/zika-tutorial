@@ -1,9 +1,9 @@
 {
   "title": "Test nextstrain git for hiv filogeny at Gorgas Memmorial Institute",
   "maintainers": [
-    {"name": "Alexander A Martinez C, "url": "http://bedford.io/team/trevor-bedford/"}
+    {"name": "Alexander A Martinez C, "url": "https://www.gorgas.gob.pa/genomica-y-proteomica/"}
   ],
-  "build_url": "https://github.com/nextstrain/prueba",
+  "build_url": "https://github.com/AAMCgenomics/zika-tutorial",
   "colorings": [
     {
       "key": "gt",
